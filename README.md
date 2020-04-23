@@ -13,5 +13,6 @@ Torque = ∫2πr^2fdr (from 0 to R),
 where f is the COF. 
 
 (If y'all interested please read this paper: https://pubs.acs.org/doi/abs/10.1021/jp990256v)
+
 Our task is to solve this equation with linear algebra in Numpy.
 
